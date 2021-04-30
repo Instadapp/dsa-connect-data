@@ -1,6 +1,4 @@
 {
-  "1": {
-    "1": {
       "basic": {
         "address": "0xe5398f279175962E56fE4c5E0b62dc7208EF36c6",
         "abiPath": "abi/v1/basic.json"
@@ -165,86 +163,4 @@
         "address": "0xa96b2F679fB935Ba279eA9395402ca4696D64D78",
         "abiPath": "abi/v1/aave_stake.json"
       }
-    },
-    "2": {
-      "1INCH-A": {
-        "address": "0x6C7256cf7C003dD85683339F75DdE9971f98f2FD",
-        "abiPath": "abi/v2/1INCH-A.json"
-      },
-      "AAVE-V1-A": {
-        "address": "0x127d8cD0E2b2E0366D522DeA53A787bfE9002C14",
-        "abiPath": "abi/v2/AAVE-V1-A.json"
-      },
-      "AAVE-V2-A": {
-        "address": "0x497Bc53507DF17e60F731e9534cff74E8BC9DBb8",
-        "abiPath": "abi/v2/AAVE-V2-A.json"
-      },
-      "AUTHORITY-A": {
-        "address": "0x6CE3e607C808b4f4C26B7F6aDAeB619e49CAbb25",
-        "abiPath": "abi/v2/AUTHORITY-A.json"
-      },
-      "BASIC-A": {
-        "address": "0x9926955e0Dd681Dc303370C52f4Ad0a4dd061687",
-        "abiPath": "abi/v2/BASIC-A.json"
-      },
-      "COMP-A": {
-        "address": "0xB446e325D44C52b93eC122Bf76301f235f90B9c9",
-        "abiPath": "abi/v2/COMP-A.json"
-      },
-      "COMPOUND-A": {
-        "address": "0xcD7661f786D5fd6b87ee33497Dd9cCD3b2702012",
-        "abiPath": "abi/v2/COMPOUND-A.json"
-      },
-      "MAKERDAO-A": {
-        "address": "0x839c2D3aDe63DF5b0b8F3E57D5e145057Ab41556",
-        "abiPath": "abi/v2/MAKERDAO-A.json"
-      },
-      "UNISWAP-A": {
-        "address": "0xA4BF319968986D2352FA1c550D781bBFCCE3FcaB",
-        "abiPath": "abi/v2/UNISWAP-A.json"
-      },
-      "POLYGON-BRIDGE-A": {
-        "address": "0x697860CeE594c577F18f71cAf3d8B68D913c7366",
-        "abiPath": "abi/v2/POLYGON-BRIDGE-A.json"
-      },
-      "AAVE-CLAIM-A": {
-        "address": "0x611C1FA59Aa1d6352c4C8bD44882063c6aEE85E0",
-        "abiPath": "abi/v2/AAVE-CLAIM-A.json"
-      },
-      "AAVE-STAKE-A": {
-        "address": "0xf73C94402BC24148b744083eD02654EEc2C37D5B",
-        "abiPath": "abi/v2/AAVE-STAKE-A.json"
-      }
-    }
-  },
-  "137": {
-    "1": {
-      "basic": {
-        "address": "0x6214f9c4F9700fc7a50B5f9aEEB819d647406Ac7",
-        "abiPath": "abi/v1/basic.json"
-      },
-      "authority": {
-        "address": "0xD6daA927ad756a4022858dddcc4E26137b30DB4D",
-        "abiPath": "abi/v1/authority.json"
-      }
-    },
-    "2": {
-      "AAVE-V2-A": {
-        "address": "0xE84d8010Afc3663919F44685cB53ED88866da3eE",
-        "abiPath": "abi/v2/AAVE-V2-A.json"
-      },
-      "AUTHORITY-A": {
-        "address": "0xf6474aD0dA75A0dE15D2c915e601D9f754B9e6fe",
-        "abiPath": "abi/v2/AUTHORITY-A.json"
-      },
-      "BASIC-A": {
-        "address": "0x1cAF5EC802ca602E98139AD96A8f2B7BC524264E",
-        "abiPath": "abi/v2/BASIC-A.json"
-      },
-      "AAVE-CLAIM-A": {
-        "address": "0xC7Cb1dE2721BFC0E0DA1b9D526bCdC54eF1C0eFC",
-        "abiPath": "abi/v2/AAVE-CLAIM-A.json"
-      }
-    }
-  }
 }

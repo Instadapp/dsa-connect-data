@@ -2,16 +2,14 @@
 
 
 ## mapper format
+chain-{chainId}/v1.json
+chain-{chainId}/v2.json
 
 ```json
 {
-    "[chainId]": {
-        "[version]: {
-            "[connectorId]": {
-                "address": "[address]",
-                "abiPath": "[abiPath]"
-            }
-        }
+    "[Connector-ID]": {
+        "address": "[address]",
+        "abiPath: "[abiPath]"
     }
 }
 ```
