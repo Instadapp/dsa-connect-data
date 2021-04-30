@@ -1,3 +1,250 @@
 {
-
+  "1": {
+    "1": {
+      "basic": {
+        "address": "0xe5398f279175962E56fE4c5E0b62dc7208EF36c6",
+        "abiPath": "abi/v1/basic.json"
+      },
+      "authority": {
+        "address": "0xd1aff9f2acf800c876c409100d6f39aea93fc3d9",
+        "abiPath": "abi/v1/authority.json"
+      },
+      "compound": {
+        "address": "0x94dFafCc80B8460AcF1cbC5cAc17bd83C95e9992",
+        "abiPath": "abi/v1/compound.json"
+      },
+      "compound_old": {
+        "address": "0x15fdd1e902cac70786fe7d31013b1a806764b5a2",
+        "abiPath": "abi/v1/compound_old.json"
+      },
+      "maker": {
+        "address": "0x0F3979aC12b74878Af11cfee67B9bBB2520b3ba6",
+        "abiPath": "abi/v1/maker.json"
+      },
+      "maker_old": {
+        "address": "0xac02030d8a8F49eD04b2f52C394D3F901A10F8A9",
+        "abiPath": "abi/v1/maker_old.json"
+      },
+      "instapool": {
+        "address": "0xCeF5f3c402d4fef76A038e89a4357176963e1464",
+        "abiPath": "abi/v1/instapool.json"
+      },
+      "oasis": {
+        "address": "0xE554c84c030bd5e850cDbd17f6583818b8dE5b1F",
+        "abiPath": "abi/v1/oasis.json"
+      },
+      "kyber": {
+        "address": "0x7043FC2E21865c091EEaE37C38E3d82BcCDF5D5C",
+        "abiPath": "abi/v1/kyber.json"
+      },
+      "curve": {
+        "address": "0xC74902Ad45C8223da10EfdCfF2DeD12184e9D9b5",
+        "abiPath": "abi/v1/curve.json"
+      },
+      "curve_susd": {
+        "address": "0xC74902Ad45C8223da10EfdCfF2DeD12184e9D9b5",
+        "abiPath": "abi/v1/curve_susd.json"
+      },
+      "curve_sbtc": {
+        "address": "0xe3bC928D9DAA89A0f08Cf77b227B7080B9a5105d",
+        "abiPath": "abi/v1/curve_sbtc.json"
+      },
+      "curve_y": {
+        "address": "0x861a2250FcDBe57041289623561D5D79585DF5dc",
+        "abiPath": "abi/v1/curve_y.json"
+      },
+      "oneInch": {
+        "address": "0xC639E779eBEDCC9394DD534a3cf8A2d164f1Ee97",
+        "abiPath": "abi/v1/oneInch.json"
+      },
+      "dydx": {
+        "address": "0x6AF6C791c869DfA65f8A2fa042fA47D1535Bef25",
+        "abiPath": "abi/v1/dydx.json"
+      },
+      "aave": {
+        "address": "0x1d662Fe55b10759CE69c3A6805259eb545BD5738",
+        "abiPath": "abi/v1/aave.json"
+      },
+      "migrate": {
+        "address": "0xcb5cbc3f397e0024fac67cf6dd465e02ca91c215",
+        "abiPath": "abi/v1/migrate.json"
+      },
+      "compoundImport": {
+        "address": "0xdc9f393d5f4c12f1c1049035c20d58bd624510e3",
+        "abiPath": "abi/v1/compoundImport.json"
+      },
+      "uniswap": {
+        "address": "0x3f4b307d501417CA0F928958a27191AA6657D38d",
+        "abiPath": "abi/v1/uniswap.json"
+      },
+      "comp": {
+        "address": "0xFB8a92E017E3416c0F63c28C53195337eBDeba2E",
+        "abiPath": "abi/v1/comp.json"
+      },
+      "staking": {
+        "address": "0xe5b66b785bd6b6708BB814482180C136Ddbcd687",
+        "abiPath": "abi/v1/staking.json"
+      },
+      "chi": {
+        "address": "0xb86437e80709015d05354c35e54b7c8b11a58687",
+        "abiPath": "abi/v1/chi.json"
+      },
+      "curve_claim": {
+        "address": "0xF5e14d35706971B6AaD7A67B1A8E9a1EF7870Be9",
+        "abiPath": "abi/v1/curve_claim.json"
+      },
+      "curve_gauge": {
+        "address": "0xAf615b36Db171fD5A369A0060b9bCB88fFf0190d",
+        "abiPath": "abi/v1/curve_gauge.json"
+      },
+      "gelato": {
+        "address": "0x25aD59adbe00C2d80c86d01e2E05e1294DA84823",
+        "abiPath": "abi/v1/gelato.json"
+      },
+      "dydx_flash": {
+        "address": "0xE5a7bdd3336245142Ad3a153838ecFB490A5e044",
+        "abiPath": "abi/v1/dydx_flash.json"
+      },
+      "swerve": {
+        "address": "0x8b302dc8a97a63eb468715b8c30f7003b86e9f01",
+        "abiPath": "abi/v1/swerve.json"
+      },
+      "curve_three": {
+        "address": "0x1568a9D336A7aC051DCC4bdcc4A0B09299DE5Daf",
+        "abiPath": "abi/v1/curve_three.json"
+      },
+      "instapool_v2": {
+        "address": "0xeb4bf86589f808f90eec8e964dbf16bd4d284905",
+        "abiPath": "abi/v1/instapool_v2.json"
+      },
+      "compoundImport_v2": {
+        "address": "0x0AD8CC89bfB3b265a6De52438a26a44C6d66E74E",
+        "abiPath": "abi/v1/compoundImport_v2.json"
+      },
+      "math": {
+        "address": "0xa007f98ab41b0b4520701cb2ac75e802c460db4c",
+        "abiPath": "abi/v1/math.json"
+      },
+      "aave_v2": {
+        "address": "0x53Edf7Fc8bB9c249694EA0a2174043553b34Db27",
+        "abiPath": "abi/v1/aave_v2.json"
+      },
+      "aave_migrate": {
+        "address": "0xd3914a73367F8015070f073D5C69602F3a48B80D",
+        "abiPath": "abi/v1/aave_migrate.json"
+      },
+      "fee": {
+        "address": "0x5fa9455cE54BD5723443C6D3D614693E3429B57F",
+        "abiPath": "abi/v1/fee.json"
+      },
+      "refinance": {
+        "address": "0x0D16C7134ce24D1e22D64bC7bc0B4862Faa9AdB9",
+        "abiPath": "abi/v1/refinance.json"
+      },
+      "aave_v2_import": {
+        "address": "0xCFC2a047887A4026A7E866f7ec1404f30D6A6F31",
+        "abiPath": "abi/v1/aave_v2_import.json"
+      },
+      "aave_v1_import": {
+        "address": "0x4a9e4827e884cB3e49406e3A1A678F75910B1BB9",
+        "abiPath": "abi/v1/aave_v1_import.json"
+      },
+      "polygon_bridge": {
+        "address": "0x5d1C4e6c91Ee834c6E1949DB2D0A6309061c358A",
+        "abiPath": "abi/v1/polygon_bridge.json"
+      },
+      "aave_polygon_migrate": {
+        "address": "0x9686CE6Ad5C3f7b212CAF401b928c4bB3422E7Ba",
+        "abiPath": "abi/v1/aave_polygon_migrate.json"
+      },
+      "aave_claim": {
+        "address": "0x8f1e38c53af7bD2b2bE01b9580911b7Cca504F1b",
+        "abiPath": "abi/v1/aave_claim.json"
+      },
+      "aave_stake": {
+        "address": "0xa96b2F679fB935Ba279eA9395402ca4696D64D78",
+        "abiPath": "abi/v1/aave_stake.json"
+      }
+    },
+    "2": {
+      "1INCH-A": {
+        "address": "0x6C7256cf7C003dD85683339F75DdE9971f98f2FD",
+        "abiPath": "abi/v2/1INCH-A.json"
+      },
+      "AAVE-V1-A": {
+        "address": "0x127d8cD0E2b2E0366D522DeA53A787bfE9002C14",
+        "abiPath": "abi/v2/AAVE-V1-A.json"
+      },
+      "AAVE-V2-A": {
+        "address": "0x497Bc53507DF17e60F731e9534cff74E8BC9DBb8",
+        "abiPath": "abi/v2/AAVE-V2-A.json"
+      },
+      "AUTHORITY-A": {
+        "address": "0x6CE3e607C808b4f4C26B7F6aDAeB619e49CAbb25",
+        "abiPath": "abi/v2/AUTHORITY-A.json"
+      },
+      "BASIC-A": {
+        "address": "0x9926955e0Dd681Dc303370C52f4Ad0a4dd061687",
+        "abiPath": "abi/v2/BASIC-A.json"
+      },
+      "COMP-A": {
+        "address": "0xB446e325D44C52b93eC122Bf76301f235f90B9c9",
+        "abiPath": "abi/v2/COMP-A.json"
+      },
+      "COMPOUND-A": {
+        "address": "0xcD7661f786D5fd6b87ee33497Dd9cCD3b2702012",
+        "abiPath": "abi/v2/COMPOUND-A.json"
+      },
+      "MAKERDAO-A": {
+        "address": "0x839c2D3aDe63DF5b0b8F3E57D5e145057Ab41556",
+        "abiPath": "abi/v2/MAKERDAO-A.json"
+      },
+      "UNISWAP-A": {
+        "address": "0xA4BF319968986D2352FA1c550D781bBFCCE3FcaB",
+        "abiPath": "abi/v2/UNISWAP-A.json"
+      },
+      "POLYGON-BRIDGE-A": {
+        "address": "0x697860CeE594c577F18f71cAf3d8B68D913c7366",
+        "abiPath": "abi/v2/POLYGON-BRIDGE-A.json"
+      },
+      "AAVE-CLAIM-A": {
+        "address": "0x611C1FA59Aa1d6352c4C8bD44882063c6aEE85E0",
+        "abiPath": "abi/v2/AAVE-CLAIM-A.json"
+      },
+      "AAVE-STAKE-A": {
+        "address": "0xf73C94402BC24148b744083eD02654EEc2C37D5B",
+        "abiPath": "abi/v2/AAVE-STAKE-A.json"
+      }
+    }
+  },
+  "137": {
+    "1": {
+      "basic": {
+        "address": "0x6214f9c4F9700fc7a50B5f9aEEB819d647406Ac7",
+        "abiPath": "abi/v1/basic.json"
+      },
+      "authority": {
+        "address": "0xD6daA927ad756a4022858dddcc4E26137b30DB4D",
+        "abiPath": "abi/v1/authority.json"
+      }
+    },
+    "2": {
+      "AAVE-V2-A": {
+        "address": "0xE84d8010Afc3663919F44685cB53ED88866da3eE",
+        "abiPath": "abi/v2/AAVE-V2-A.json"
+      },
+      "AUTHORITY-A": {
+        "address": "0xf6474aD0dA75A0dE15D2c915e601D9f754B9e6fe",
+        "abiPath": "abi/v2/AUTHORITY-A.json"
+      },
+      "BASIC-A": {
+        "address": "0x1cAF5EC802ca602E98139AD96A8f2B7BC524264E",
+        "abiPath": "abi/v2/BASIC-A.json"
+      },
+      "AAVE-CLAIM-A": {
+        "address": "0xC7Cb1dE2721BFC0E0DA1b9D526bCdC54eF1C0eFC",
+        "abiPath": "abi/v2/AAVE-CLAIM-A.json"
+      }
+    }
+  }
 }
